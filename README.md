@@ -23,3 +23,5 @@ Simillarly, select an email from where the alert will be send.
 
 ### `node parser.js https://www.amazon.in/itemlink price_threshold`
 To run the app
+
+This project has been completed by following [Web Dev Simplified](https://www.youtube.com/watch?v=H5ObmDUjKV4) video from YouTube.
