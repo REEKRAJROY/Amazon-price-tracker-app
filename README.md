@@ -13,15 +13,19 @@ To import nightmare and sendgrid libraries.
 
 
 ### `npm i dotenv`
-To import dotenv library
+To import dotenv library.
 
-Api key from sendgrid copied inside varaible in .env file and set in parser.js.
+Api key from sendgrid copied stored in a variable inside .env file and set in parser.js.
 
 Set up a mailing service where mail can be received. [temp-mail.org](https://temp-mail.org/en/) is a good option.
 
 Simillarly, select an email from where the alert will be send.
 
 ### `node parser.js https://www.amazon.in/itemlink price_threshold`
-To run the app
+To run the app.
 
 This project has been completed by following [Web Dev Simplified](https://www.youtube.com/watch?v=H5ObmDUjKV4) video from YouTube.
+
+
+### 📑️ Further Documentation
+[docs.sendgrid](https://docs.sendgrid.com/for-developers/sending-email/api-getting-started) from Twilio has everything mentoned to setting up Sendgrid api.
