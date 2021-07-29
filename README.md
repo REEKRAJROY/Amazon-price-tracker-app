@@ -1,8 +1,8 @@
 # Amazon-price-tracker-app
 
-An Amazon Price tracking notifier which scraps off prices from Amazon's site sends an email to the host whenever price of a particular item drops
-below a set threshold. Node has been used to create the JavaScript application. Scraping has been implemented using nightmare library, sendgrid
-has been used to implement mailing services. dotenv library is used to handle the .env files.
+This is JavaScript application which scrapes off prices from Amazon's site and sends an email to the host when price of a particular item drops
+below a set threshold. Scraping has been implemented using nightmare library, sendgrid has been used to implement mailing services.
+dotenv library is used to handle the .env files.
 
 ### 🚀️ Setting up 
 
