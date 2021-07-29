@@ -31,8 +31,8 @@ async function checkPrice() {
 
 function sendEmail(subject, body) {
   const email = {
-    to: 'vocamib618@flipssl.com',
-    from: 'amazon-price-checker@example.com',
+    to: 'vocamib618@flipssl.com',  /*Enter your mail here */
+    from: 'amazon-price-checker@example.com', /*Enter some third party mailing service like temp mail */
     subject: subject,
     text: body,
     html: body
